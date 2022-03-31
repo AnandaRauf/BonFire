@@ -8,9 +8,9 @@ Developed date 25 March 2022.
 Bon Fire is free software bot auto get Crypto Coin from FaucetCrypto,ClaimSol and AutoFaucet.
 
 Feature:
-- Auto Login(ClaimSol,AutoFaucet,and FaucetCrypto) with using bypass recaptchaV2.
+- Auto Login(ClaimSol)(Cominsgsoon for AutoFaucet,and FaucetCrypto) with using bypass recaptchaV2.
 - Auto Claim with using bypass recaptchaV2(Comingsoon).
-- Auto PTC with using bypass recaptchaV2.
+- Auto PTC with using bypass recaptchaV2(Comingsoon).
 
 Requirement:
 - [Python](https://www.python.org)
